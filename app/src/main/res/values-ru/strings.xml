@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Долговая книга</string>
+    <string name="title_activity_home">Долговая книга</string>
+    <string name="add">Добавлять</string>
+    <string name="username">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="quantity">Количество</string>
+    <string name="igave">Я дал</string>
+    <string name="Iaccepted">Я принял</string>
+    <string name="today">Сегодня</string>
+    <string name="term">Срок</string>
+    <string name="agreed">Согласованный</string>
+    <string name="edit">Изменить</string>
+    <string name="delete">Удалить</string>
+    <string name="search">Поиск</string>
+    <string name="time">Время</string>
+    <string name="settings">Настройки</string>
+    <string name="changelanguage">Изменение языка</string>
+    <string name="clickaddbutton">Нажмите кнопку + ниже</string>
+    <string name="lightmode">Светлый режим</string>
+    <string name="darkmode">Темный режим</string>
+    <string name="themes">Темы</string>
+</resources>

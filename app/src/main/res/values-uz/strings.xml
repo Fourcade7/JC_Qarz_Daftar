@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qarz Daftar</string>
+    <string name="title_activity_home">Qarz Daftar</string>
+    <string name="add">Qo\'shish</string>
+    <string name="username">Ism</string>
+    <string name="surname">Familiya</string>
+    <string name="quantity">Qiymat</string>
+    <string name="igave">Berdim</string>
+    <string name="Iaccepted">Oldim</string>
+    <string name="today">Bugun</string>
+    <string name="term">Muddati</string>
+    <string name="agreed">Kelishildi</string>
+    <string name="edit">O\'zgartirish</string>
+    <string name="delete">O\'chirish</string>
+    <string name="search">Qidiruv</string>
+    <string name="time">Vaqt</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="changelanguage">Tilni o\'zgartirish</string>
+    <string name="clickaddbutton">Pastdagi + tugmasiga bosing</string>
+    <string name="lightmode">Yorqin mavzu</string>
+    <string name="darkmode">Tungi mavu</string>
+    <string name="themes">Mavzular</string>
+</resources>
